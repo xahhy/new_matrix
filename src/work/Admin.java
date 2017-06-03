@@ -21,21 +21,29 @@ public class Admin extends javax.servlet.http.HttpServlet {
         bigMap.add(new Point(2, 0));
         bigMap.add(new Point(0, 2));
         bigMap.add(new Point(2, 2));
+
         bigMap.add(new Point(12, 0));
         bigMap.add(new Point(14, 0));
         bigMap.add(new Point(12, 2));
         bigMap.add(new Point(14, 2));
+
         bigMap.add(new Point(1, 1));
         bigMap.add(new Point(3, 1));
         bigMap.add(new Point(4, 1));
         bigMap.add(new Point(5, 1));
+        bigMap.add(new Point(6, 1));
+        bigMap.add(new Point(7, 1));
+        bigMap.add(new Point(8, 1));
         bigMap.add(new Point(9, 1));
         bigMap.add(new Point(10, 1));
         bigMap.add(new Point(11, 1));
+
         bigMap.add(new Point(13, 1));
+
         bigMap.add(new Point(3, 7));
         bigMap.add(new Point(4, 7));
         bigMap.add(new Point(5, 7));
+
         bigMap.add(new Point(9, 7));
         bigMap.add(new Point(10, 7));
         bigMap.add(new Point(11, 7));
@@ -45,9 +53,11 @@ public class Admin extends javax.servlet.http.HttpServlet {
         bigMap.add(new Point(7, 9));
         bigMap.add(new Point(7, 10));
         bigMap.add(new Point(7, 11));
+
         bigMap.add(new Point(13, 7));
         bigMap.add(new Point(13, 6));
         bigMap.add(new Point(13, 8));
+
         bigMap.add(new Point(1, 3));
         bigMap.add(new Point(1, 4));
         bigMap.add(new Point(1, 5));
@@ -58,13 +68,16 @@ public class Admin extends javax.servlet.http.HttpServlet {
         bigMap.add(new Point(1, 10));
         bigMap.add(new Point(1, 11));
         bigMap.add(new Point(1, 13));
+
         bigMap.add(new Point(1, 6));
         bigMap.add(new Point(1, 7));
         bigMap.add(new Point(1, 8));
+
         bigMap.add(new Point(0, 12));
         bigMap.add(new Point(0, 14));
         bigMap.add(new Point(2, 12));
         bigMap.add(new Point(2, 14));
+
         bigMap.add(new Point(3, 13));
         bigMap.add(new Point(4, 13));
         bigMap.add(new Point(5, 13));
@@ -74,18 +87,25 @@ public class Admin extends javax.servlet.http.HttpServlet {
         bigMap.add(new Point(9, 13));
         bigMap.add(new Point(10, 13));
         bigMap.add(new Point(11, 13));
+
         bigMap.add(new Point(13, 13));
+
         bigMap.add(new Point(12, 12));
         bigMap.add(new Point(14, 12));
         bigMap.add(new Point(12, 14));
         bigMap.add(new Point(14, 14));
+
         bigMap.add(new Point(7, 6));
         bigMap.add(new Point(7, 7));
         bigMap.add(new Point(8, 7));
         bigMap.add(new Point(6, 7));
+
         bigMap.add(new Point(13, 3));
         bigMap.add(new Point(13, 4));
         bigMap.add(new Point(13, 5));
+        bigMap.add(new Point(13, 6));
+        bigMap.add(new Point(13, 7));
+        bigMap.add(new Point(13, 8));
         bigMap.add(new Point(13, 9));
         bigMap.add(new Point(13, 10));
         bigMap.add(new Point(13, 11));
